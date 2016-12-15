@@ -4,6 +4,7 @@ Randomize angelscript bytecodes
 if you want to ship precompiled angelscript bytecode with your application, but harden it against decompilation, you can use this script to randomize the used bytecodes.
 
 Usage:
+
 1. copy randomize_bytecodes.py into angelscript include directory
 2. run the script a few times
 3. build angelscript
