@@ -1,0 +1,2 @@
+# RandomizeAngelscript
+Randomize angelscript bytecodes
